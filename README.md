@@ -1,8 +1,8 @@
-# Nishit webscraping_seekjobs_task
+# Nishit webscraping_seekjobs
 
 nishit_webscraping_SeekJobs_main.py is the python program and on running it, it will do the scraping and save all the data in the list called mainlist
 
-I have used conda on Ubuntu 20.04 for this task and have created a virtual environemnt using conda, which you can replicate using the yaml file and the command
+I have used conda on Ubuntu 20.04 and have created a virtual environemnt using conda, which you can replicate using the yaml file and the command
 
 conda env create -f nishit_seekjobs.yml
 
