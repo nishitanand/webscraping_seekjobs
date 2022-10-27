@@ -25,3 +25,4 @@ I have used only requests library and BeautifulSoup Library of Python, So if you
 
 Even though I have written a lot of comments in the code to explain it, I have also made a Video giving a demo and explaining the code. YOu can view at the given link below-
 https://drive.google.com/file/d/1x1zkVwNV3qIye-VUsxHadpC8H0g4ObMl/view?usp=sharing
+It can be viewed on the Google Drive or easily on VLC Media PLayer
