@@ -106,5 +106,5 @@ for job in jobs:        # Here we are iterating through each of the jobs
     maincount=maincount+1       # Each entry in the list called mainlist corresponds to a dictionary containing all the details of 1 job position
 
 #Thus all the details of all the jobs are being stored in the list called mainlist and we can uncomment the below 2 lines to view the mainlist as well.
-print("\n\n\n")
-print("MAINLIST\n", mainlist)
+#print("\n\n\n")
+#print("MAINLIST\n", mainlist)
